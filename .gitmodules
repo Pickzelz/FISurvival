@@ -1,0 +1,9 @@
+[submodule "FISurvival/Assets/Addons/UnitySceneManager"]
+	path = FISurvival/Assets/Addons/UnitySceneManager
+	url = https://github.com/Pickzelz/UnitySceneManagement.git
+[submodule "FISurvival/Assets/Script/FiFirstPersonController"]
+	path = FISurvival/Assets/Script/FiFirstPersonController
+	url = https://github.com/Pickzelz/FIFirstPersonController
+[submodule "FISurvival/Assets/Script/CharacterController"]
+	path = FISurvival/Assets/Script/CharacterController
+	url = https://github.com/Pickzelz/FICharacterController.git
